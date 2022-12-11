@@ -19,7 +19,6 @@ I'm the coding beginner.  Краткая информация о себе (ва�
 
 
 
-
 ## **Code example**
 ---
 Code example will be there soon...
