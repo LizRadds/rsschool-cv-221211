@@ -15,6 +15,7 @@ I'm the coding beginner.  Краткая информация о себе (ва�
 ---
 * HTML
 * Git/GitHub
+* Java Script
 
 
 
