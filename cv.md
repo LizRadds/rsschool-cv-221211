@@ -9,7 +9,7 @@
 
 ## **About**
 ---
-I'm the coding beginner.  Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+I'm the coding beginner. Not giving up and keep trying to learn code :)
 
 ## **Skills**
 ---
@@ -35,7 +35,9 @@ No experience in programming yet.
 ## **Education & courses**
 ---
 * **Cracow University of Technology**, Faculty of Architecture, Architecture and Urban Design
-* **RS School** Stage 0 - in process...
+* **RS School** Stage 0 - in progress...
+* **RS School** Stage 1 - in progress...
+
 ## Languages 
 ---
 * **English:** B1/B2
