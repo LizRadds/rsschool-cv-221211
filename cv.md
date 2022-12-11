@@ -19,6 +19,7 @@ I'm the coding beginner.  Краткая информация о себе (ва�
 
 
 
+
 ## **Code example**
 ---
 Code example will be there soon...
@@ -36,6 +37,8 @@ No experience in programming yet.
 ---
 * **Cracow University of Technology**, Faculty of Architecture, Architecture and Urban Design
 * **RS School** Stage 0 - in process...
+* **RS School** Stage 1 - in progress...
+
 ## Languages 
 ---
 * **English:** B1/B2
